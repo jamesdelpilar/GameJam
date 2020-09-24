@@ -1,4 +1,4 @@
-# GameJam Huumber Fall 2020
+# Game Jam Humber Fall 2020
 
 Sword Movement //move_an_object.cs
 
