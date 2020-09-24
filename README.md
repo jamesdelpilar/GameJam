@@ -1,4 +1,4 @@
-# GameJam
+# GameJam Huumber Fall 2020
 
 Sword Movement //move_an_object.cs
 
@@ -29,3 +29,39 @@ When the sword and player collides into eachother's colliders it loads the "retr
 Moving left and right
 players velocity = A/D key * speed
 Audiosource plays on trigger
+
+Members of Group 16:
+
+James Del Pilar 
+Alberto Barrios 
+Simran Punia 
+Ivan Chernychko 
+Minh Quan Doan 
+Ryan Jaros
+
+
+Music Used:
+"Makai Symphony - Dragon Castle" is under a Creative Commons license (CC BY-SA 3.0).
+Music promoted by BreakingCopyright: https://youtu.be/9gBTKiVqprE
+
+Unity Published Game:
+https://connect.unity.com/mg/other/sky-hero-1
+
+itch.io Published Game (Aspect Ratio Issues may occur):
+https://jamesdelpilar.itch.io/skyhero
+
+itch.io Download Game:
+https://jamesdelpilar.itch.io/sky-hero-download
+
+Unity Package (Unity 2019.3.13f1) Public Download:
+https://drive.google.com/drive/folders/1yzJ-3wCKzLcbfuMCUYRaIIHvGUzpBc6p?usp=sharing
+
+GitHub:
+https://github.com/jamesdelpilar/GameJam
+
+YouTube Link:
+https://www.youtube.com/watch?v=eZwlayEc5Xs&ab_channel=JamesDelPilar
+
+Trello Board:
+https://trello.com/b/ASdTWDvc/game-jam-game-100-105
+
