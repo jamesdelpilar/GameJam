@@ -19,6 +19,8 @@ Score //Score.cs // ScoreCollider.cs
 
 When the sword touches a collider past the screen/player it does a "score ++;" code which is attached to the text
 
+Main Camera //sound.cs
+
 Player Jumping //player_controls.cs //PlayerCollision.cs
 
 Check is there is a ground.The cloud had a "ground" tag 
